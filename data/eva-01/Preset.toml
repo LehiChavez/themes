@@ -16,7 +16,7 @@ message-box = "#222222" # Caja de mensajes
 mention = "rgba(127, 255, 0, 0.2)" # Verde neón translúcido
 
 success = "#4CAF50" # Verde de éxito
-warning = "#FF9800" # Naranja de advertencia
+warning = "#FF9800" # Naranja de advertencias
 error = "#FF0000" # Rojo de alerta
 hover = "rgba(127, 255, 0, 0.1)" # Efecto al pasar el mouse
 
